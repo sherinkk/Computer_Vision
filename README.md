@@ -1,5 +1,5 @@
 # Computer_Vision
-Assignment 1:
+##Assignment 1:
 Q1: Take an image. a. Convert that into gray scale and that gray scale into binary using builtin functions and display all three in single window. b. Find the minimum and maximum i. in the color image (for green, red and blue channel) ii. in the gray scale image iii. in the binary image
 
 Q2: Write the python program which takes two polynomial as input and output the product of those two polynomials using convolution in spatial domain (in O(n^2))
