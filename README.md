@@ -1,27 +1,34 @@
 # Computer_Vision
-##Assignment 1:
+
+Assignment 1:
+
 Q1: Take an image. a. Convert that into gray scale and that gray scale into binary using builtin functions and display all three in single window. b. Find the minimum and maximum i. in the color image (for green, red and blue channel) ii. in the gray scale image iii. in the binary image
 
 Q2: Write the python program which takes two polynomial as input and output the product of those two polynomials using convolution in spatial domain (in O(n^2))
 
 Assignment 2:
-Take an image of the wall of your house and apply a sobel filter and count the number of edge pixels in the edge map. Do the same operation for the image of a tree ( capture your own image of the tree ) and report your observation on the two images
 
+Take an image of the wall of your house and apply a sobel filter and count the number of edge pixels in the edge map. Do the same operation for the image of a tree ( capture your own image of the tree ) and report your observation on the two images.
 Each of the images considered in the first problem apply Gaussian filters of size 77, 99 and 11*11. Repeat the problem 1 and report your observation
 
 Assignment 3:
+
 Capture Image of chess board(in Black & white) . The captured imageneeds to be converted to gray scale and then to black and white. Write a python script to find all the corner points in the binary chess board image, anddisplay integer coordinates at each corner, superimposing the coordinates with the binary image. (0,0) needs to be displayed at topmost and left most corner, and (8,8) is to be displayed at the lastcorner
 
 Assignment 4:
+
 Design and implement the scheme to find the disparity map from the stereo images. Consider the given images for the test case. You are allowed to use inbuilt functions.
 
 Assignment 5:
+
 Camera calibration using builtin function. Hint:Chessboard can be used for imaging purpose
 
 Assignment 6:
+
 Implement the watershed algorithm in openCV
 
 Assignment 7:
+
 Problem Description:
 
 All the images attached along with this show cells identifiable by their well-stained nuclei. The nuclei are stained either blue or brown. The diagnosis report is defined as follows:
@@ -31,6 +38,9 @@ Currently, we see the image in the microscope, count and calculate the %, manual
 
 Identify percentage positivity (similar to that described above)
 Classify the intensity of staining as low and high grade.
+
+
 Assignment 8:
+
 Face recognition using SIFT features and the demo should be shown on students' faces.
 
